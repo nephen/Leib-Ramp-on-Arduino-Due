@@ -1,9 +1,8 @@
 /*
- Name:		Test_Stepper.ino
+ Name:		Leib_Ramp.ino
  Created:	2017/2/3 14:56:27
  Author:	Qiayuan Liao
 */
-
 //#include "DueTimer.h"
 #include "DueTimer.h"
 #define SPeed_Slew 100  //target velocity  (steps per second),
